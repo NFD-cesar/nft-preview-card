@@ -32,12 +32,7 @@ main {
     height: auto;
     padding: 28px 25px;
     background-color: hsl(216, 50%, 16%);
-    /* border: 1px solid; */
 }
-
-/* .main--container figure {
-    width: 100%;
-} */
 
 .main--container figure img {
     width: 275px;
@@ -50,11 +45,16 @@ main {
     color: hsl(0, 0%, 100%);
 }
 
+.main-container--dates h1:hover {
+    color: hsl(178, 100%, 50%);
+}
+
 .main-container--dates p {
     margin-top: 15px;
     font-size: 1.6rem;
     line-height: 2.5rem;
-    color: hsl(0, 0%, 100%);
+    font-weight: 500;
+    color: hsl(215, 51%, 70%);
 }
 
 .main-container--dates .container-date {
@@ -65,7 +65,7 @@ main {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    border-bottom: 1px solid hsl(215, 51%, 70%);
+    border-bottom: 1px solid hsl(215, 32%, 27%);
 }
 
 .main-container--dates .container-date .container-eth {
@@ -91,9 +91,36 @@ main {
 }
 
 .main-container--dates .container-date .container-days p {
-    margin: 0;
+    margin: 0 0 0 5px;
+    font-weight: 600;
 }
 
 .main--conatiner-photo {
+    margin-top: 17px;
     display: flex;
+    align-items: center;
+}
+
+.main--conatiner-photo img {
+    width: 32px;
+    border-radius: 50%;
+    border: 1px solid hsl(0, 0%, 100%);
+}
+
+.main--conatiner-photo p {
+    font-size: 1.5rem;
+    margin-left: 15px;
+    font-weight: 600;
+    color: hsl(215, 51%, 70%);
+}
+
+.main--conatiner-photo p span {
+    font-size: 1.5rem;
+    margin-left: 4px;
+    color: hsl(0, 0%, 100%);
+    font-weight: 600;
+}
+
+.main--conatiner-photo p span:hover {
+    color: hsl(178, 100%, 50%)
 }
