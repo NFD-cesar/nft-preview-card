@@ -51,7 +51,7 @@ main {
 }
 
 .main-container--dates p {
-    margin-top: 14px;
+    margin-top: 15px;
     font-size: 1.6rem;
     line-height: 2.5rem;
     color: hsl(0, 0%, 100%);
@@ -60,16 +60,40 @@ main {
 .main-container--dates .container-date {
     width: 100%;
     height: auto;
+    margin-top: 10px;
+    padding-bottom: 15px;
     display: flex;
     align-items: center;
     justify-content: space-between;
+    border-bottom: 1px solid hsl(215, 51%, 70%);
 }
 
-.main-container--dates .container-date h2 {
+.main-container--dates .container-date .container-eth {
+    display: flex;
+}
+
+.main-container--dates .container-date .container-eth h2 {
+    margin-left: 6px;
     font-size: 1.6rem;
-    font-weight: 400;
+    font-weight: 600;
     color: hsl(178, 100%, 50%);
 }
 
+.main-container--dates .container-date .container-days {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
+.main-container--dates .container-date .container-days img {
+    width: 20px;
+    height: 20px;
+}
 
+.main-container--dates .container-date .container-days p {
+    margin: 0;
+}
+
+.main--conatiner-photo {
+    display: flex;
+}
