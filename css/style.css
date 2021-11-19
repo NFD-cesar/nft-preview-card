@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100&display=swap');
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    background-color: hsl(217, 54%, 11%);
+    font-family: Outfit;
+}
+
+.guide {
+    opacity: 0.4;
+    position: absolute;
+}
+
+main {
+    width: 100%;
+    height: auto;
+    padding: 50px 24px;
+}
+
+.main--container {
+    width: 100%;
+    height: auto;
+    padding: 28px 25px;
+    background-color: hsl(216, 50%, 16%);
+    /* border: 1px solid; */
+}
+
+/* .main--container figure {
+    width: 100%;
+} */
+
+.main--container figure img {
+    width: 275px;
+}
+
+.main-container--dates h1 {
+    margin-top: 20px;
+    font-size: 2.3rem;
+    font-weight: 800;
+    color: hsl(0, 0%, 100%);
+}
+
+.main-container--dates p {
+    margin-top: 14px;
+    font-size: 1.6rem;
+    line-height: 2.5rem;
+    color: hsl(0, 0%, 100%);
+}
+
+.main-container--dates .container-date {
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.main-container--dates .container-date h2 {
+    font-size: 1.6rem;
+    font-weight: 400;
+    color: hsl(178, 100%, 50%);
+}
+
+
+
