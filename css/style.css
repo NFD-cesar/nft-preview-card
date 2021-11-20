@@ -35,8 +35,11 @@ main {
 }
 
 .main--container figure {
-    width: 275px;
-    height: 274px;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    max-width: 275px;
+    max-height: 274px;
     background-color: hsl(178, 100%, 50%);
     background-image: url(../images/icon-view.svg);
     background-size: 40px;
@@ -49,7 +52,7 @@ main {
 }
 
 .main--container figure img:hover {
-    opacity: 0.5;
+    opacity: 0.4;
 }
 
 .main-container--dates a {
