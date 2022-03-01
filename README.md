@@ -6,11 +6,9 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
   - [NFD César Ramírez](https://twitter.com/nfd_cesar)
 
-    - [Twitter](https://twitter.com/nfd_cesar)
-    - [Instagram](https://www.instagram.com/nfd_cesar)
-    - [Frontend Mentor](https://www.frontendmentor.io/profile/NFD-cesar)
-    - [CodePen](https://codepen.io/nfd-cesar)
-    - [FreeCodeCamp](https://www.freecodecamp.org/nfd-cesar)
+    - Frontend Mentor: [César Ramírez](https://www.frontendmentor.io/profile/ramez-cesar)
+    - Twitter: [César Ramírez](https://twitter.com/ramez_cesar)
+    - CodePen: [CodePen](https://codepen.io/ramez-cesar)
 
 ### Screenshot
 
@@ -18,8 +16,8 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/NFD-cesar/nft-preview-card)
-- Live Site URL: [Add live site URL here](https://nfd-cesar.github.io/nft-preview-card/)
+- Solution URL: [Add solution URL here](https://github.com/ramez-cesar/nft-preview-card)
+- Live Site URL: [Add live site URL here](https://ramez-cesar.github.io/nft-preview-card/)
 
 ## My process
 
