@@ -8,7 +8,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
     - Frontend Mentor: [César Ramírez](https://www.frontendmentor.io/profile/ramez-cesar)
     - Twitter: [César Ramírez](https://twitter.com/ramez_cesar)
-    - CodePen: [CodePen](https://codepen.io/ramez-cesar)
+    - [CodePen](https://codepen.io/ramez-cesar)
 
 ### Screenshot
 
