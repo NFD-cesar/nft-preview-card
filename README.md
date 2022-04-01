@@ -4,11 +4,11 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ## Author
 
-  - [NFD César Ramírez](https://twitter.com/nfd_cesar)
+  - [César Ramez](https://twitter.com/nfd_cesar)
 
-    - Frontend Mentor: [César Ramírez](https://www.frontendmentor.io/profile/ramez-cesar)
-    - Twitter: [César Ramírez](https://twitter.com/ramez_cesar)
-    - [CodePen](https://codepen.io/ramez-cesar)
+    - Frontend Mentor: [César Ramez](https://www.frontendmentor.io/profile/ramez-cesar)
+    - Twitter: [César Ramez](https://twitter.com/ramez_cesar)
+    - Codepen: [César Ramez](https://codepen.io/ramez-cesar)
 
 ### Screenshot
 
