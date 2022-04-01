@@ -1,3 +1,11 @@
+@media (min-width: 375px) {
+    .main--container figure img {
+        width: 275px;
+        height: 275px;
+    }
+}
+
+
 @media (min-width: 425px) {
     main {
         height: auto;
@@ -16,6 +24,7 @@
 
     .main--container figure img {
         width: 300px;
+        height: 300px;
     }
 
     .main-container--dates a h1 {
